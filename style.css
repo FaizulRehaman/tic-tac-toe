@@ -34,14 +34,14 @@ body{
 #reset{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: grey;
+    background-color:  #2196F3;
     color: white;
     border-radius: 1rem;
 }
 #newbtn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: grey;
+    background-color: #4CAF50;
     color: white;
     border-radius: 1rem;
 }
@@ -59,4 +59,8 @@ body{
 }
 .hide{
     display: none;
+}
+.box:hover {
+    background-color: #fbd485;
+    cursor: pointer;
 }
