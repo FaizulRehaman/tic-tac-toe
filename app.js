@@ -67,7 +67,7 @@ const checkwinner = () => {
     }
     
     if (!isWinner && filledBoxes === 9) {
-        console.log("Game is a Draw");
+        console.log("Game is a Draw !");
         show_draw();
     }
 };
